@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: ankitagrawal.com/v1
+metadata:
+  name: junioon-batch
+spec:
+  name: devops learning
+  duration: 6 month
+  platform: netsmartz.com
+  mode: offline
